@@ -16,7 +16,7 @@ Doz.use(ssrPlugin);
 // Plugin that changes the meta tags
 Doz.use(metaTag, {
     title: 'Lampobot',
-    description: 'A steampunk artist for passion'
+    description: 'Fabio Ricali, steampunk artist for passion.'
 });
 
 // Add configuration to all components,

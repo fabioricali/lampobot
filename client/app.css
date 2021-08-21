@@ -3,36 +3,10 @@ html, body {
     font-family: arial, sans-serif;
     margin: 0;
     text-align: center;
+    background: url("https://scontent.fpmo3-1.fna.fbcdn.net/v/t1.6435-9/235195307_226559606139436_3616314051545557529_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=WJmvDEQYclUAX-e2AiA&_nc_ht=scontent.fpmo3-1.fna&oh=3487bf7069596dba59bbd0cd0a41462f&oe=6145EE80");
+    background-size: cover;
 }
 
-header {
-    background: linear-gradient(128deg, #1f0c70, #6c609e, #000f3c);
-    background-size: 600% 600%;
-    animation: AnimationName 8s ease infinite;
-    color: #fff;
-    padding-top: 20px;
-    padding-bottom: 40px;
-}
-
-@-webkit-keyframes AnimationName {
-    0%{background-position:0 11%}
-    50%{background-position:100% 90%}
-    100%{background-position:0 11%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:0 11%}
-    50%{background-position:100% 90%}
-    100%{background-position:0 11%}
-}
-@keyframes AnimationName {
-    0%{background-position:0 11%}
-    50%{background-position:100% 90%}
-    100%{background-position:0 11%}
-}
-
-header img{
-    width: 250px;
-}
 
 main {
     padding: 40px;
@@ -40,11 +14,11 @@ main {
 
 h1 {
     font-weight: lighter;
-    margin: 20px 0;
+    margin: 0 0 20px 0;
 }
 
 h3 {
-    margin: 20px 0;
+    margin: 0 0 20px 0;
 }
 
 p {
