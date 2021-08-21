@@ -60,7 +60,7 @@ export default class Main extends Component {
                 <div class="line"></div>
                 <div class="socials">
                     <a href="https://it-it.facebook.com/lampobot">
-                        <i class="fab facebook"></i>
+                        <i class="fab fa-facebook"></i>
                     </a>
                     <a href="https://www.instagram.com/lampobot/">
                         <i class="fab fa-instagram"></i>
